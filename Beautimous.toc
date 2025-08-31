@@ -1,0 +1,9 @@
+## Interface: 30300
+## Author: mikekthx
+## Title: Beautimous
+## Version: v1.0
+## Notes: Adds CVars that make your game more beautiful!
+## DefaultState: enabled
+## LoadOnDemand: 0
+
+Beautimous.lua
