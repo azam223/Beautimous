@@ -1,0 +1,28 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore macOS metadata
+.DS_Store
+
+# Ignore Windows metadata
+Thumbs.db
+desktop.ini
+
+# Ignore temporary/backup files
+*.bak
+*.tmp
+*~
+*.swp
+
+# Ignore TOC backups (sometimes created by editors)
+*.toc.bak
+
+# Ignore addon packaging tools output (like CurseForge, WowUp, etc.)
+*.zip
+release/
+build/
+pkgmeta.yaml
+.wowrelease/
+
+# Ignore compiled Lua bytecode (rare, but just in case)
+*.luac
